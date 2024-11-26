@@ -1,0 +1,201 @@
+CustomerID,Name,Location,Gender,Age,Average Purchase ($),Frequency (for visits), purchased at Starbucks
+1,Stephanie Alvarez,Sheilaport,Male,19,15,39,Coffee
+2,Casey Diaz,Dixonport,Male,21,15,81,Cold drinks;Pastries
+3,John Barrett,Gregoryburgh,Female,20,16,6,Coffee
+4,Sara Beck,North David,Female,23,16,77,Coffee
+5,Tracey Kim,Williamsonshire,Female,31,17,40,Coffee;Sandwiches
+6,Kelly Ho,Shepherdside,Female,22,17,76,Cold drinks
+7,Karen Brady,Brennanland,Female,35,18,6,Coffee
+8,Monica Burnett,Chapmanview,Female,23,18,94,Coffee;Cold drinks
+9,Erica Woods,Smithshire,Male,64,19,3,Cold drinks
+10,James Turner,Paulaborough,Female,30,19,72,Coffee
+11,Nicholas Savage,East Christopherfurt,Male,67,19,14,Cold drinks
+12,Rhonda Chavez,Banksport,Female,35,19,99,Coffee
+13,Nicole Mcdaniel,Parrishside,Female,58,20,15,Coffee;Sandwiches
+14,Samuel Dickerson,Rileyburgh,Female,24,20,77,Coffee
+15,Zachary Sullivan,Joeltown,Male,37,20,13,Coffee
+16,Mrs. Kathleen Oneal,Scottmouth,Male,22,20,79,Coffee
+17,Matthew Kennedy,New Patricia,Female,35,21,35,Coffee
+18,Heather Harris,East Barry,Male,20,21,66,Coffee
+19,Andrew Watson,New Vincent,Male,52,23,29,Coffee
+20,Paul Peterson,Thomasview,Female,35,23,98,Cold drinks
+21,Cory Brown,East Charles,Male,35,24,35,Coffee
+22,Molly Cruz,Port Carla,Male,25,24,73,Coffee
+23,Gerald Johnston,Bensonburgh,Female,46,25,5,Coffee
+24,Elijah Barnett,East Jamesstad,Male,31,25,73,Cold drinks;Pastries;Sandwiches
+25,Stephen Lozano,North Benjamin,Female,54,28,14,Coffee;Juices;Pastries;Sandwiches
+26,Christina Hunter,Fordland,Male,29,28,82,Coffee;Cold drinks
+27,Paul Taylor,New Christopher,Female,45,28,32,Coffee
+28,Samantha Wells,South Joyce,Male,35,28,61,Coffee
+29,Dawn Nelson,South Kaylaberg,Female,40,29,31,Coffee
+30,James White,North Ryanton,Female,23,29,87,Coffee
+31,Angela Williamson,Jordanmouth,Male,60,30,4,Coffee;Pastries;Sandwiches
+32,Veronica Moses,Laurenport,Female,21,30,73,Coffee;Pastries
+33,Debra Hamilton,Lake Laurie,Male,53,33,4,Coffee
+34,Stacie Oliver DVM,Raymondview,Male,18,33,92,Coffee
+35,Jason Moore,South Anthonytown,Female,49,33,14,Coffee
+36,Gary Joyce,Timothybury,Female,21,33,81,Coffee
+37,Ashley Page,Mcdonaldchester,Female,42,34,17,Cold drinks
+38,John Bush,Melaniemouth,Female,30,34,73,Coffee
+39,David Williams,Brettbury,Female,36,37,26,Cold drinks;Juices;Pastries
+40,Kerry Santos,Russellmouth,Female,20,37,75,Coffee
+41,Shawn Williams,South Dariusburgh,Female,65,38,35,Coffee
+42,Catherine White,Andersonfurt,Male,24,38,92,Coffee
+43,Michael May,Bradton,Male,48,39,36,Coffee
+44,Calvin Allison,Robinsonton,Female,31,39,61,Coffee;Pastries
+45,Bryan Palmer,Seanberg,Female,49,39,28,Coffee
+46,Joseph Carter,North Johnbury,Female,24,39,65,Coffee;Pastries
+47,Matthew Yang,Bradyfurt,Female,50,40,55,Cold drinks
+48,Veronica Young,West Mark,Female,27,40,47,Coffee
+49,Angela Ford,Kellyshire,Female,29,40,42,Cold drinks
+50,Gary Martin,East Jennifer,Female,31,40,42,Cold drinks
+51,Bradley James,Jerryview,Female,49,42,52,Coffee
+52,Susan Quinn,Bobbyfort,Male,33,42,60,Cold drinks
+53,James Williams,South Julie,Female,31,43,54,Cold drinks;Juices;Pastries
+54,Sarah Schultz,North Denisefort,Male,59,43,60,Coffee
+55,Megan Crawford,North Bryan,Female,50,43,45,Coffee
+56,Austin Williams,Port Christychester,Male,47,43,41,Coffee
+57,Caitlyn Marks,Santiagoburgh,Female,51,44,50,Coffee;Cold drinks
+58,Michelle Lopez,Alexfort,Male,69,44,46,Coffee
+59,Angel Bowen,West Meghan,Female,27,46,51,Coffee
+60,Cynthia Barrett,Michaelchester,Male,53,46,46,Cold drinks
+61,Gina Hunter,West Dennis,Male,70,46,56,Coffee
+62,Jason Owen,East Jeffrey,Male,19,46,55,Coffee;Cold drinks
+63,Jennifer Key,Lake Melanie,Female,67,47,52,Coffee
+64,Dennis Galvan,New Brianville,Female,54,47,59,Coffee
+65,Cynthia Anderson,Wrighthaven,Male,63,48,51,Coffee
+66,Laurie Haley,East Jennifer,Male,18,48,59,Coffee
+67,Charles Roth,Port Mollymouth,Female,43,48,50,Coffee;Cold drinks;Pastries;Sandwiches
+68,Tammy Hughes,North Eric,Female,68,48,48,Coffee
+69,Wendy Reed,West Hunter,Male,19,48,59,Coffee
+70,Mike Hicks,Richardsonbury,Female,32,48,47,Cold drinks
+71,Charles Webb,East Amanda,Male,70,49,55,Coffee
+72,Rachel Barrett,Vangbury,Female,47,49,42,Coffee;Sandwiches
+73,Karen Jimenez,South Lynnstad,Female,60,50,49,Coffee
+74,Erin Maxwell,West Joseph,Female,60,50,56,Cold drinks
+75,Lori Mercer,Port Rebecca,Male,59,54,47,Coffee;Cold drinks
+76,Dylan Stephens,Robintown,Male,26,54,54,Coffee
+77,Theodore Lopez,Joshuaborough,Female,45,54,53,Coffee
+78,Antonio Norris,Lauraville,Male,40,54,48,Coffee
+79,Julie Pearson,New William,Female,23,54,52,Coffee
+80,Steven Phillips,Rachelbury,Female,49,54,42,Cold drinks
+81,Lisa Phillips,Garrettfurt,Male,57,54,51,Coffee
+82,Susan Curtis,East Adammouth,Male,38,54,55,Coffee
+83,Erica Bryant,Halefort,Male,67,54,41,Cold drinks
+84,Ashley Gordon,North Amyland,Female,46,54,44,Coffee
+85,Raymond Reyes,Coreyville,Female,21,54,57,Coffee
+86,Adam Welch,New Justinville,Male,48,54,46,Jaws chip
+87,Kiara Smith,Blakebury,Female,55,57,58,Coffee
+88,Jason Hood,North Robinmouth,Female,22,57,55,Coffee
+89,Becky Williams,Kyleshire,Female,34,58,60,cake
+90,John Turner,Perezbury,Female,50,58,46,Cold drinks
+91,Samuel Hawkins,Robertfurt,Female,68,59,55,Coffee
+92,Kimberly Clarke,Jessicaport,Male,18,59,41,Coffee;Pastries
+93,Douglas Frye,Davidton,Male,48,60,49,Coffee
+94,Kimberly Ramirez,Ericksonbury,Female,40,60,40,Coffee
+95,Julie Rhodes,Davidfort,Female,32,60,42,Coffee
+96,Nicole Morgan,Houstonmouth,Male,24,60,52,Cold drinks
+97,Brandon Brown,Andrewton,Female,47,60,47,Cold drinks
+98,Timothy Hudson,Johnhaven,Female,27,60,50,Pastries
+99,Robert May,New Daniel,Male,48,61,42,Coffee
+100,Sara Steele,New Frederickborough,Male,20,61,49,Coffee
+101,Rebecca Lucero,West Joshuahaven,Female,23,62,41,Cold drinks
+102,Caitlyn Ware,Davisside,Female,49,62,48,Coffee
+103,Brian Wright,East Michael,Male,67,62,59,Coffee
+104,Ryan Simmons,East Lisaburgh,Male,26,62,55,Coffee;Pastries
+105,Carrie Gallegos,New Andreastad,Male,49,62,56,Pastries
+106,Harold Thompson,Mcclainshire,Female,21,62,42,Cold drinks
+107,John Carroll,Pagehaven,Female,66,63,50,Coffee
+108,Jack Munoz,South Ambermouth,Male,54,63,46,Cold drinks;Never
+109,Mark Smith,Kennethville,Male,68,63,43,Coffee
+110,John Hill,Lake Caitlin,Male,66,63,48,Coffee;Pastries
+111,Kathy Wright,Jamesland,Male,65,63,52,Cold drinks
+112,Spencer Gonzalez,Kimberg,Female,19,63,54,Cold drinks
+113,Austin Carrillo,Angelaborough,Female,38,64,42,Coffee
+114,Jerry Church,Baileystad,Male,19,64,46,Cold drinks
+115,Kimberly Turner,South Wendy,Female,18,65,48,Cold drinks
+116,Kendra Simpson,Martinland,Female,19,65,50,Cold drinks
+117,Felicia Cruz,Port Jenniferborough,Female,63,65,43,Cold drinks
+118,Ann Harmon,Chavezchester,Female,49,65,59,Coffee
+119,Jeffrey Goodwin,Matthewstad,Female,51,67,43,Coffee;Cold drinks;Juices;Pastries;Sandwiches
+120,Beth Camacho,East Elizabethmouth,Female,50,67,57,Coffee;Cold drinks
+121,Dr. Jessica Santana,Stephensside,Male,27,67,56,Coffee
+122,Olivia Travis,North Alyssa,Female,38,67,40,Coffee
+123,Angela Cole,East Leslie,Female,40,69,58,Coffee
+124,Monica Wood,South Kimberlyfurt,Male,39,69,91,Coffee
+125,Joseph Lamb DVM,Hillmouth,Female,23,70,29,Coffee
+126,Crystal Rios,Port Elizabethton,Female,31,70,77,Cold drinks;Pastries;Sandwiches
+127,Julie James,Melissaville,Male,43,71,35,Coffee;Juices;Pastries;Sandwiches
+128,Anita Howell,Elliottland,Male,40,71,95,Coffee;Cold drinks
+129,Sheryl Hernandez,West Rebecca,Male,59,71,11,Coffee
+130,Cheryl Hoffman,Port Elaineberg,Male,38,71,75,Coffee
+131,Valerie Burton MD,Jacksonstad,Male,47,71,9,Coffee
+132,Frank Davis,Stacyburgh,Male,39,71,75,Coffee
+133,Michelle Michael,West Alan,Female,25,72,34,Coffee;Pastries;Sandwiches
+134,Michael Wilson,Waltonfort,Female,31,72,71,Coffee;Pastries
+135,Cynthia Bell,Garrettfurt,Male,20,73,5,Coffee
+136,Sean Henry,Lake Omar,Female,29,73,88,Coffee
+137,Michael Brown,Nelsonland,Female,44,73,7,Coffee
+138,Christopher Johnson,Pettyburgh,Male,32,73,73,Coffee
+139,Rebecca Bass,Wardhaven,Male,19,74,10,Cold drinks
+140,Deborah Hernandez,South Brandi,Female,35,74,72,Coffee
+141,Juan Pugh,Hodgeview,Female,57,75,5,Cold drinks;Juices;Pastries
+142,Sergio Douglas,New Denise,Male,32,75,93,Coffee
+143,Paula Wilson,New Nicholasfurt,Female,28,76,40,Coffee
+144,Brandon Lynch,Murraychester,Female,32,76,87,Coffee
+145,Lacey Howard,New Leonardberg,Male,25,77,12,Coffee
+146,Jesse Wilson,Lake Daleburgh,Male,28,77,97,Cold drinks;Pastries;Sandwiches
+147,Kristina Hamilton,South Patriciabury,Male,48,77,36,Coffee;Juices;Pastries;Sandwiches
+148,Jason Young,South Garystad,Female,32,77,74,Coffee;Cold drinks
+149,Benjamin Leonard Jr.,New Pamelabury,Female,34,78,22,Coffee
+150,Andrea Sparks,Bensonbury,Male,34,78,90,Coffee
+151,Timothy Pham,North Michaelton,Male,43,78,17,Coffee
+152,Ronnie Mason,Lake Tabitha,Male,39,78,88,Coffee
+153,Kerry Hanson,Kellymouth,Female,44,78,20,Coffee;Pastries;Sandwiches
+154,Kyle Owens,Brownland,Female,38,78,76,Coffee;Pastries
+155,Barbara Rivera,Leonardhaven,Female,47,78,16,Coffee
+156,Sherry Ashley,Deborahport,Female,27,78,89,Coffee
+157,Ricardo Johnson,Rachelchester,Male,37,78,1,Coffee
+158,Linda Gibson,West Christy,Female,30,78,78,Coffee
+159,Carol Jones,Reedland,Male,34,78,1,Cold drinks
+160,Andrew Levy,Jenniferside,Female,30,78,73,Coffee
+161,Lori Anderson DVM,New Marie,Female,56,79,35,Cold drinks;Juices;Pastries
+162,Karen Mcdaniel,New Eugene,Female,29,79,83,Coffee
+163,Ashley Murray,Tylerville,Male,19,81,5,Coffee
+164,Becky Ramos,South Ericborough,Female,31,81,93,Coffee
+165,Stephanie Odonnell,New Johnny,Male,50,85,26,Cold drinks
+166,Brenda Guzman,South Justin,Female,36,85,75,Coffee
+167,Mr. Robert Fisher,Justinborough,Male,42,86,20,Coffee;Cold drinks
+168,Nicole Sullivan,Port Jo,Female,33,86,95,Coffee
+169,Kevin Armstrong,North Catherine,Female,36,87,27,Coffee
+170,Maria Smith,New Teresa,Male,32,87,63,Coffee
+171,Michelle Hammond,Port Danielleborough,Male,40,87,13,Coffee
+172,Katherine Douglas MD,North George,Male,28,87,75,Coffee;Cold drinks;Pastries;Sandwiches
+173,Ronald Clark,Zimmermanhaven,Male,36,87,10,Coffee
+174,Charles Smith,South Joshuastad,Male,36,87,92,Coffee
+175,Brenda Preston,Stacyland,Female,52,88,13,Cold drinks
+176,Deborah Powers,Jacobsontown,Female,30,88,86,Coffee
+177,Jay Gonzalez,North Garytown,Male,58,88,15,Coffee
+178,Raymond Foster,Wardfort,Male,27,88,69,Cold drinks
+179,Donald Hayes,Jenniferport,Male,59,93,14,Coffee
+180,Michele Morales,South Colin,Male,35,93,90,Coffee;Cold drinks
+181,Amber Stevens,Port Jonathanland,Female,37,97,32,Coffee
+182,Stephanie Wood,East Gregory,Female,32,97,86,Coffee
+183,Alexander Young,Greenemouth,Male,46,98,15,Coffee
+184,Jack Cooper,Matthewmouth,Female,29,98,88,Coffee
+185,Alexandra Bishop,Lake Stephaniemouth,Female,41,99,39,Coffee;Cold drinks;Pastries;Sandwiches
+186,Michael Moran,Ortizton,Male,30,99,97,Coffee
+187,Mariah Rivera,South Kennethbury,Female,54,101,24,Coffee
+188,Donald Mullins,East Janetberg,Male,28,101,68,Cold drinks
+189,Andrew Kennedy,Kingshire,Female,41,103,17,Coffee
+190,Scott Thompson,South Johnton,Female,36,103,85,Coffee
+191,Kristen Cole,Khanberg,Female,34,103,23,Cold drinks
+192,Jasmine Martinez,Lonnieton,Female,32,103,69,Coffee
+193,Dr. Mario Clark,Port Julie,Male,33,113,8,Coffee;Cold drinks
+194,Mitchell Phillips,East Michael,Female,38,113,91,Coffee
+195,Michael Henry,Cherryborough,Female,47,120,16,Coffee
+196,Stephen Parker,Morrisland,Female,35,120,79,Coffee
+197,William Scott,Timothystad,Female,45,126,28,Coffee
+198,Dr. Lauren Garcia,Tiffanyside,Male,32,126,74,Coffee;Cold drinks;Pastries;Sandwiches
+199,Mary Morgan,Lake Alexander,Male,32,137,18,Coffee
+200,Marvin Andrews,Williamsview,Male,30,137,83,Coffee
